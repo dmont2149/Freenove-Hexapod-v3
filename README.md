@@ -19,11 +19,11 @@ Estos links sirven de referencia para convertir el codigo de python a codigo bin
 utilizable por arduino para su posterior subida a la placa del robot.
 
 
-**#LIBRERIAS:**
+**LIBRERIAS:**
 
 Las librerias utilizadas para el funcionamiento del robot vienen adjuntas en el repositorio de github, en total son 4 librerias en formato zip.
 
-**#Códigos:**
+**Códigos:**
 
 [Prueba_1](https://github.com/NeRvCobra/FNK0031-Hexapod/blob/main/Prueba_1/Prueba_1.ino) arduino sirve como manejador de casos enviados desde python para ejercer las acciones del hexapod.
 [Prueba_2](https://github.com/NeRvCobra/FNK0031-Hexapod/blob/main/Prueba%202/Prueba%202.ino) es una prueba inconclusa de arduino donde se intentó hacer un ciclo para inicializar python a través-
